@@ -1,0 +1,7 @@
+/ImageTestApp/Bin
+/ImageTestApp/obj
+/ImageTestApp/*.user
+/ImageTestAppWinRT/bin
+/ImageTestAppWinRT/obj
+/ImageTestAppWinRT/*.user
+/.vs/ImageTestApp/v14/*.suo
